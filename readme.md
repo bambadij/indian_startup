@@ -9,7 +9,8 @@ The objective, as a data analyst, was to draw insights on the available data fro
 |-----------|-------------|:-------------:|------:|
 | LP1       | Indian Startup Funding Analysis  |  [https://medium.com/@bambadij/exploratory-data-analysis-for-indian-startup-ecosystem-a-visualization-approach-of-indian-startup-50d1c2ec5cc5](/) | [[https://azubiafrica-my.sharepoint.com/:u:/g/personal/bambo_traore_azubiafrica_org/EU2AvxNUPUNGl4AwnnkJvuMBYHaFhlkzsxNNbfRbHR7S1w?e=nzi9jI]](/) |
 
-
+## Project Description
+Ideas, creativity, and execution are essential for a start-up to flourish. But are they enough? Investors provide start-ups and other entrepreneurial ventures with the capital---popularly known as "funding"---to think big, grow rich, and leave a lasting impact. In this project, you are going to analyse funding received by start-ups in India from 2018 to 2021. You will find the data for each year of funding in a separate csv file in the dataset provided. In these files you'll find the start-ups' details, the funding amounts received, and the investors' information.
 ## **Column names and description in Final Data:**
 
 -   **Company/Brand**: Name of the company/start-up
@@ -62,3 +63,6 @@ The objective, as a data analyst, was to draw insights on the available data fro
 6. Technical industries have a larger number of smaller investments, driving up the sum.
 
 The Indian startup ecosystem is a vibrant and influential force in the global market. This project provides valuable insights into funding patterns and industry preferences. By leveraging this information, stakeholders can make informed decisions and contribute to the growth and success of startups in India.
+
+## Author
+Bambo Traore & Team Newport
